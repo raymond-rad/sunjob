@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/S850917/S850917.iml" filepath="$PROJECT_DIR$/S850917/S850917.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S850920/S850920.iml" filepath="$PROJECT_DIR$/S850920/S850920.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S850920_2/S850920_2.iml" filepath="$PROJECT_DIR$/S850920_2/S850920_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S850922/S850922.iml" filepath="$PROJECT_DIR$/S850922/S850922.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S850924/S850924.iml" filepath="$PROJECT_DIR$/S850924/S850924.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S850927/S850927.iml" filepath="$PROJECT_DIR$/S850927/S850927.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S851003/S851003.iml" filepath="$PROJECT_DIR$/S851003/S851003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S851004/S851004.iml" filepath="$PROJECT_DIR$/S851004/S851004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S851006/S851006.iml" filepath="$PROJECT_DIR$/S851006/S851006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S851008/S851008.iml" filepath="$PROJECT_DIR$/S851008/S851008.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S851013/S851013.iml" filepath="$PROJECT_DIR$/S851013/S851013.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S851015/S851015.iml" filepath="$PROJECT_DIR$/S851015/S851015.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jspTest/jspTest.iml" filepath="$PROJECT_DIR$/jspTest/jspTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s85/s85.iml" filepath="$PROJECT_DIR$/s85/s85.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunjob.iml" filepath="$PROJECT_DIR$/sunjob.iml" />
+    </modules>
+  </component>
+</project>

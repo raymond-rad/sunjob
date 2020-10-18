@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="S850927" />
+        <module name="S850924" />
+        <module name="S850922" />
+        <module name="S850920" />
+        <module name="S851008" />
+        <module name="Test" />
+        <module name="S851006" />
+        <module name="S851004" />
+        <module name="S851003" />
+        <module name="S851015" />
+        <module name="S851013" />
+        <module name="s85" />
+        <module name="S850920_2" />
+        <module name="jspTest" />
+        <module name="S850917" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="firstMaven" target="1.5" />
+      <module name="jspTest" target="1.8" />
+      <module name="s85" target="1.8" />
+      <module name="s850917" target="1.8" />
+      <module name="S850917" target="1.8" />
+      <module name="S850920" target="1.8" />
+      <module name="S850920_2" target="1.8" />
+      <module name="S850922" target="1.8" />
+      <module name="S850924" target="1.8" />
+      <module name="S850927" target="1.8" />
+      <module name="S851003" target="1.8" />
+      <module name="S851004" target="1.8" />
+      <module name="S851006" target="1.8" />
+      <module name="S851008" target="1.8" />
+      <module name="S851013" target="1.8" />
+      <module name="S851015" target="1.8" />
+      <module name="s85_0917" target="1.8" />
+      <module name="Test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

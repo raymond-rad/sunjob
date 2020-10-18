@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.pojo.Dep">
+    <resultMap id="dep" type="com.pojo.Dep">
+        <id property="depId" column="depId"></id>
+        <result property="depName" column="depName"></result>
+    </resultMap>
+
+
+    <insert id="add" parameterType="list">
+        insert into dep(depName) values
+        <foreach collection="list" separator="," item="dep">
+            (#{dep.depName})
+        </foreach>
+    </insert>
+
+
+    <update id="update" parameterType="com.pojo.Dep">
+        update dep
+        <set>
+            <if test=" depName!='' and depName != null" >
+                depName=#{depName},
+            </if>
+        </set>
+        where depId =#{depId}
+    </update>
+
+    <update id="update1" parameterType="com.pojo.Dep">
+        update dep set
+        <trim suffixOverrides=",">
+            depName=#{depName},
+        </trim>
+        where depId = #{depId}
+    </update>
+    
+    <delete id="delete" parameterType="int">
+        delete from dep where depId not in(#{depId})
+    </delete>
+    
+    <sql id="dep" >
+        depId,depName
+    </sql>
+    
+    <select id="select"  resultType="com.pojo.Dep">
+        select <include refid="dep"></include> from dep
+    </select>
+    
+</mapper>

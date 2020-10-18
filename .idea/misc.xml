@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/firstMaven" />
+    <file type="web" url="file://$PROJECT_DIR$/jspTest" />
+    <file type="web" url="file://$PROJECT_DIR$/s85" />
+    <file type="web" url="file://$PROJECT_DIR$/S850917" />
+    <file type="web" url="file://$PROJECT_DIR$/S850920" />
+    <file type="web" url="file://$PROJECT_DIR$/S850920_2" />
+    <file type="web" url="file://$PROJECT_DIR$/S850922" />
+    <file type="web" url="file://$PROJECT_DIR$/S850924" />
+    <file type="web" url="file://$PROJECT_DIR$/S850927" />
+    <file type="web" url="file://$PROJECT_DIR$/S851003" />
+    <file type="web" url="file://$PROJECT_DIR$/S851004" />
+    <file type="web" url="file://$PROJECT_DIR$/S851006" />
+    <file type="web" url="file://$PROJECT_DIR$/S851008" />
+    <file type="web" url="file://$PROJECT_DIR$/S851013" />
+    <file type="web" url="file://$PROJECT_DIR$/S851015" />
+    <file type="web" url="file://$PROJECT_DIR$/Test" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/s85/pom.xml" />
+        <option value="$PROJECT_DIR$/S850917/pom.xml" />
+        <option value="$PROJECT_DIR$/S850920/pom.xml" />
+        <option value="$PROJECT_DIR$/S850920_2/pom.xml" />
+        <option value="$PROJECT_DIR$/Test/pom.xml" />
+        <option value="$PROJECT_DIR$/S850922/pom.xml" />
+        <option value="$PROJECT_DIR$/S850924/pom.xml" />
+        <option value="$PROJECT_DIR$/S850927/pom.xml" />
+        <option value="$PROJECT_DIR$/S851003/pom.xml" />
+        <option value="$PROJECT_DIR$/S851004/pom.xml" />
+        <option value="$PROJECT_DIR$/S851006/pom.xml" />
+        <option value="$PROJECT_DIR$/S851008/pom.xml" />
+        <option value="$PROJECT_DIR$/jspTest/pom.xml" />
+        <option value="$PROJECT_DIR$/S851013/pom.xml" />
+        <option value="$PROJECT_DIR$/S851015/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

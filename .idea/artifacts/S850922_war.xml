@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="S850922:war">
+    <output-path>$PROJECT_DIR$/S850922/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>S850922</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="S850922.war">
+      <element id="artifact" artifact-name="S850922:war exploded" />
+    </root>
+  </artifact>
+</component>
